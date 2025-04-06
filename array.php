@@ -18,13 +18,3 @@ print_r($equipos);
 
 	
 ?>
-<?php
-
-
-//modificar un indice
-$equipos[1]= "Juventus";// con este cambiamos el elemento que contiene un indice del array 
-print_r(value: $equipos);
-
-
-
-?>
